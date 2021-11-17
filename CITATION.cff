@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If this overiew is useful to you, please cite as below."
+authors:
+  - family-names: Mosbach
+    given-names: Marius
+    orcid: https://orcid.org/0000-0003-2184-6964
+title: "Awesome Fine-tuning - A curated list of resources on fine-tuning language models"
+version: 1.0.0
+url: https://github.com/mmarius/awesome-finetuning
