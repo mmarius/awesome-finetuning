@@ -18,7 +18,7 @@ Disclosure. I'm an author of the following papers:
 
 ## Fine-tuning stability
 
-- [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305) Dodge et al. (2020) ![](https://img.shields.io/badge/arXiv-red)
+- [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305) Dodge et al. (2020) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 - [Revisiting Few-sample BERT Fine-tuning]() Zhang et al. (2020) ![](https://img.shields.io/badge/ICLR-greeb)
 
@@ -26,23 +26,23 @@ Disclosure. I'm an author of the following papers:
 
 ## Intermediate Task Fine-tuning
 
-- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-red)
+- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 ## Parameter-efficient Fine-tuning
 
-- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-red)
+- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 ## Prompt-based Fine-tuning
 
 ### Discrete Prompts
 
-- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-red)
+- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 
 ### Continuous Prompts
 
-- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-red)
+- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 ## Theoretical Work
 
-- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-red)
+- [Placeholder](https://github.com/mmarius/awesome-finetuning) ![](https://img.shields.io/badge/arXiv-b31b1b)
