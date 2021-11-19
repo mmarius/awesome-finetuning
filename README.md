@@ -26,7 +26,7 @@ Disclosure. I'm an author of the following papers:
 
 - ... 
 
-## Intermediate Task Fine-tuning
+## Intermediate task fine-tuning
 
 - [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088) Phang et al. (2018) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
@@ -35,15 +35,19 @@ Disclosure. I'm an author of the following papers:
 
 - ... 
 
-## Parameter-efficient Fine-tuning
+## Parameter-efficient fine-tuning
+
+- [BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models](https://arxiv.org/abs/2106.10199) Zaken et al. (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 - [Training Neural Networks with Fixed Sparse Masks](https://proceedings.neurips.cc/paper/2021/hash/cb2653f548f8709598e8b5156738cc51-Abstract.html) Sung et al. (2021) ![](https://img.shields.io/badge/NeurIPS-grey)
 
+- [Towards a Unified View of Parameter-Efficient Transfer Learning](https://openreview.net/forum?id=0RDcd5Axok) He et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
+
 - ... 
 
-## Prompt-based Fine-tuning
+## Prompt-based fine-tuning
 
-### Discrete Prompts
+### Discrete prompts
 
 - [Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://aclanthology.org/2021.eacl-main.20/) Schick & Schütze (2021a) ![](https://img.shields.io/badge/EACL-orange)
 
@@ -69,8 +73,6 @@ Disclosure. I'm an author of the following papers:
 
 - [Prompt-Learning for Fine-Grained Entity Typing](https://arxiv.org/abs/2108.10604) Ding et al. (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
-- [Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners](https://openreview.net/forum?id=ek9a0qIafW) Zhang et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
-
 - [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/abs/2109.01247) Webson & Pavlick (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 - [Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning](https://aclanthology.org/2021.emnlp-main.713/) Utama et al. (2021) ![](https://img.shields.io/badge/EMNLP-yellow)
@@ -89,7 +91,11 @@ Disclosure. I'm an author of the following papers:
 
 - ... 
 
-### Continuous Prompts
+### Continuous prompts
+
+- [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) Li & Liang (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
+
+- [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://aclanthology.org/2021.naacl-main.410/) Qin & Eisner (2021) ![](https://img.shields.io/badge/NAACL-purple)
 
 - [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://aclanthology.org/2021.naacl-main.398/) Zhong et al. (2021) ![](https://img.shields.io/badge/NAACL-purple)
 
@@ -99,7 +105,11 @@ Disclosure. I'm an author of the following papers:
 
 - [Noisy Channel Language Model Prompting for Few-Shot Text Classification](https://arxiv.org/abs/2108.04106) Min et al. (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
+- [Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners](https://openreview.net/forum?id=ek9a0qIafW) Zhang et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
+
 - [Continuous Entailment Patterns for Lexical Inference in Context](https://aclanthology.org/2021.emnlp-main.556/) Schmitt & Schütze (2021) ![](https://img.shields.io/badge/EMNLP-yellow)
+
+
 
 - ... 
 
@@ -113,7 +123,7 @@ Disclosure. I'm an author of the following papers:
 
 - ... 
 
-## Theoretical Work
+## Theoretical work
 
 - [A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks](https://openreview.net/forum?id=vVjIW3sEc1s) Saunshi et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
 
