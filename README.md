@@ -39,6 +39,10 @@ Disclosure. I'm an author of the following papers:
 
 - [Parameter-Efficient Transfer Learning for NLP](https://proceedings.mlr.press/v97/houlsby19a) Houlsby et al. (2019) ![](https://img.shields.io/badge/ICML-cyan)
 
+- [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](https://aclanthology.org/2021.eacl-main.39/) Pfeiffer et al. (2021) ![](https://img.shields.io/badge/EACL-orange)
+
+- [AdapterDrop: On the Efficiency of Adapters in Transformers](https://aclanthology.org/2021.emnlp-main.626/) Rücklé et al. (2021) ![](https://img.shields.io/badge/EMNLP-yellow)
+ 
 - [Parameter-efficient transfer learning with diff pruning](https://aclanthology.org/2021.acl-long.378/) Guo et al. (2021) ![](https://img.shields.io/badge/ACL-blue)
 
 - [Compacter: Efficient Low-Rank Hypercomplex Adapter Layers](https://arxiv.org/abs/2106.04647) Mahabadi et al. (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
@@ -50,6 +54,8 @@ Disclosure. I'm an author of the following papers:
 - [Training Neural Networks with Fixed Sparse Masks](https://proceedings.neurips.cc/paper/2021/hash/cb2653f548f8709598e8b5156738cc51-Abstract.html) Sung et al. (2021) ![](https://img.shields.io/badge/NeurIPS-brightgreen)
 
 - [Towards a Unified View of Parameter-Efficient Transfer Learning](https://openreview.net/forum?id=0RDcd5Axok) He et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
+
+- [Composable Sparse Fine-Tuning for Cross-Lingual Transfer](https://arxiv.org/abs/2110.07560) Ansell et al. (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 - ... 
 
