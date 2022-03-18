@@ -14,6 +14,16 @@ Disclosure. I'm an author of the following papers:
 ## Table of contents
 
 - [Papers](#papers)
+    - [Fine-tuning before transformers](##fine-tuning-before-transformers)
+    - [Fine-tuning transformers](##fine-tuning-transformers)
+        - [Fine-tuning stability](###fine-tuning-stability)
+        - [Intermediate task fine-tuning](###intermediate-task-fine-tuning)
+        - [Parameter-efficient fine-tuning](###parameter-efficient-fine-tuning)
+        - [Prompt-based fine-tuning](###prompt-based-fine-tuning)
+        - [Evaluating few-shot fine-tuning](###evaluating-few-shot-fine-tuning)
+        - [Probing and analysis](###probing-and-analysis)
+        - [Theoretical work](###theoretical-work)
+        - [Misc.](###misc.)
 # Papers
 
 ## Fine-tuning before transformers
@@ -167,15 +177,15 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - [Cross-Task Generalization via Natural Language Crowdsourcing Instructions](https://arxiv.org/abs/2104.08773) Mishra et al. (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
-- [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) Wei et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
-
 - [Discrete and Soft Prompting for Multilingual Models](https://aclanthology.org/2021.emnlp-main.672/) Zhao & Schütze (2021) ![](https://img.shields.io/badge/EMNLP-yellow)
+
+- [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR) Wei et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
 
 - [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://openreview.net/forum?id=9Vrb9D0WI4) Sanh et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
 
 - ... 
 
-### Continuous prompts
+#### Continuous prompts
 
 - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) Li & Liang (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
@@ -199,7 +209,7 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - ... 
 
-### Few-shot fine-tuning
+### Evaluating few-shot fine-tuning
 
 - [True Few-Shot Learning with Language Models](https://arxiv.org/abs/2105.11447) Perez et al. (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
