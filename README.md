@@ -14,16 +14,16 @@ Disclosure. I'm an author of the following papers:
 ## Table of contents
 
 - [Papers](#papers)
-    - [Fine-tuning before transformers](##fine-tuning-before-transformers)
-    - [Fine-tuning transformers](##fine-tuning-transformers)
-        - [Fine-tuning stability](###fine-tuning-stability)
-        - [Intermediate task fine-tuning](###intermediate-task-fine-tuning)
-        - [Parameter-efficient fine-tuning](###parameter-efficient-fine-tuning)
-        - [Prompt-based fine-tuning](###prompt-based-fine-tuning)
-        - [Evaluating few-shot fine-tuning](###evaluating-few-shot-fine-tuning)
-        - [Probing and analysis](###probing-and-analysis)
-        - [Theoretical work](###theoretical-work)
-        - [Misc.](###misc.)
+    - [Fine-tuning before transformers](#fine-tuning-before-transformers)
+    - [Fine-tuning transformers](#fine-tuning-transformers)
+        - [Fine-tuning stability](#fine-tuning-stability)
+        - [Intermediate task fine-tuning](#intermediate-task-fine-tuning)
+        - [Parameter-efficient fine-tuning](#parameter-efficient-fine-tuning)
+        - [Prompt-based fine-tuning](#prompt-based-fine-tuning)
+        - [Evaluating few-shot fine-tuning](#evaluating-few-shot-fine-tuning)
+        - [Probing and analysis](#probing-and-analysis)
+        - [Theoretical work](#theoretical-work)
+        - [Misc.](#misc)
 # Papers
 
 ## Fine-tuning before transformers
