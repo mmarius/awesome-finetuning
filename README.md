@@ -183,6 +183,8 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://openreview.net/forum?id=9Vrb9D0WI4) Sanh et al. (2021) ![](https://img.shields.io/badge/ICLR-green)
 
+- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) Ouyang et al. (2022) ![](https://img.shields.io/badge/arXiv-b31b1b)
+
 - ... 
 
 #### Continuous prompts
