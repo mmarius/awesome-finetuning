@@ -202,6 +202,10 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - [Prompt Consistency for Zero-Shot Task Generalization](https://arxiv.org/abs/2205.00049) Zhou et al. (2022) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
+- [Few-shot Adaptation Works with UnpredicTable Data](https://arxiv.org/abs/2208.01009) Chan et al. (2022) ![](https://img.shields.io/badge/arXiv-b31b1b)
+
+- [Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks](https://arxiv.org/abs/2204.07705) Wang et al. (2022) ![](https://img.shields.io/badge/arXiv-b31b1b)
+
 - ... 
 
 #### Continuous prompts
