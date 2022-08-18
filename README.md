@@ -21,7 +21,7 @@ Disclosure. I'm an author of the following papers:
         - [Parameter-efficient fine-tuning](#parameter-efficient-fine-tuning)
         - [Prompt-based fine-tuning](#prompt-based-fine-tuning)
         - [Evaluating few-shot fine-tuning](#evaluating-few-shot-fine-tuning)
-        - [Fine-tuning analysis](#tine-tuning-analysis)
+        - [Fine-tuning analysis](#fine-tuning-analysis)
         - [Theoretical work](#theoretical-work)
     - [Surveys](#surveys)
     - [Misc.](#misc)
