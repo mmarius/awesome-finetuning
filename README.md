@@ -21,10 +21,10 @@ Disclosure. I'm an author of the following papers:
         - [Parameter-efficient fine-tuning](#parameter-efficient-fine-tuning)
         - [Prompt-based fine-tuning](#prompt-based-fine-tuning)
         - [Evaluating few-shot fine-tuning](#evaluating-few-shot-fine-tuning)
-        - [Probing and analysis](#probing-and-analysis)
+        - [Fine-tuning analysis](#tine-tuning-analysis)
         - [Theoretical work](#theoretical-work)
-        - [Misc.](#misc)
     - [Surveys](#surveys)
+    - [Misc.](#misc)
 
 # Papers
 
@@ -243,7 +243,7 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 - ... 
 
 
-## Fine-tuning analysis
+### Fine-tuning analysis
 
 - [Visualizing and Understanding the Effectiveness of BERT](https://aclanthology.org/D19-1424/) Hao et al. (2019) ![](https://img.shields.io/badge/EMNLP-yellow)
 
@@ -279,7 +279,7 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - ... 
 
-### Fine-tuning stability
+#### Fine-tuning stability
 
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305) Dodge et al. (2020) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
@@ -289,7 +289,7 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - ... 
 
-### Fine-tuning and probing
+#### Fine-tuning and probing
 
 - [What Happens To BERT Embeddings During Fine-tuning?](https://aclanthology.org/2020.blackboxnlp-1.4/) Merchant et al. (2020) ![](https://img.shields.io/badge/Blackbox--NLP-EMNLP-yellow)
 
@@ -299,7 +299,7 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - ... 
 
-### Fine-tuning and generalization
+#### Fine-tuning and generalization
 
 - [BERTs of a feather do not generalize together: Large variability in generalization across models with similar test set performance](https://aclanthology.org/2020.blackboxnlp-1.21/) McCoy et al. (2020) ![](https://img.shields.io/badge/Blackbox--NLP-EMNLP-yellow)
 
@@ -309,7 +309,7 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - ... 
 
-#### Fine-tuning and spurious features
+##### Fine-tuning and spurious features
 
 - [An Empirical Study on Robustness to Spurious Correlations using Pre-trained Language Models](https://aclanthology.org/2020.tacl-1.40/) Tu et al. (2020) ![](https://img.shields.io/badge/TACL-grey)
 
@@ -325,17 +325,7 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 
 - [Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning](https://arxiv.org/abs/2106.09226) Wei et al. (2021) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
-- ... 
-
-### Misc.
-
-- [What is being transferred in transfer learning?](https://arxiv.org/abs/2008.11687) Neyshabur et al. (2020) ![](https://img.shields.io/badge/NeurIPS-brightgreen)
-
-- [Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](https://arxiv.org/abs/2006.06609) Talmor et al. (2020) ![](https://img.shields.io/badge/NeurIPS-brightgreen)
-
-- [Exploring and Predicting Transferability across NLP Tasks](https://aclanthology.org/2020.emnlp-main.635/) Vu et al. (2020) ![](https://img.shields.io/badge/EMNLP-yellow)
-
-- ... 
+- ...  
 
 ## Surveys
 
@@ -348,3 +338,13 @@ Some continuous prompt-based methods can also be seen as parameter-efficient fin
 - [Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models](https://arxiv.org/abs/2203.06904) Ding et al. (2022) ![](https://img.shields.io/badge/arXiv-b31b1b)
 
 - ... 
+
+## Misc.
+
+- [What is being transferred in transfer learning?](https://arxiv.org/abs/2008.11687) Neyshabur et al. (2020) ![](https://img.shields.io/badge/NeurIPS-brightgreen)
+
+- [Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](https://arxiv.org/abs/2006.06609) Talmor et al. (2020) ![](https://img.shields.io/badge/NeurIPS-brightgreen)
+
+- [Exploring and Predicting Transferability across NLP Tasks](https://aclanthology.org/2020.emnlp-main.635/) Vu et al. (2020) ![](https://img.shields.io/badge/EMNLP-yellow)
+
+- ...
